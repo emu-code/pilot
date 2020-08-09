@@ -1,3 +1,7 @@
 # pilot
 Beginning
-I'm Emu, aspiring web developer. Looking to create and learn new things.
+Hey there, aspiring android developer. Looking to create and learn new things.
+
+## Profile
+ My name is Emu.
+
